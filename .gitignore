@@ -1,0 +1,12 @@
+<DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Recipe Search</title>
+<link href = "WebFonts1.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>H1 <script>
+function myFunction() {
+    document.getElementById("myP").style.fontFamily = "Impact,Charcoal,sans-serif";
+}
